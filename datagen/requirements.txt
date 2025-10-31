@@ -1,0 +1,7 @@
+
+# Core dependencies
+psycopg2-binary==2.9.9      # PostgreSQL database adapter
+Faker==26.0.0               # Generate synthetic data
+python-dotenv==1.0.1        # Load environment variables from .env
+openai==1.45.0              # Official OpenAI Python SDK
+requests==2.32.3            # (Optional) for testing or webhook integrations
